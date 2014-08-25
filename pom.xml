@@ -27,7 +27,7 @@
                     "backbone-paginator": "backbone.paginator"
                 },
                 "shim": {
-                    "backbone-paginator": ["backbonejs", "underscorejs"]
+                    "backbone-paginator": ["underscore", "backbone"]
                 }
             }
         </requirejs>
