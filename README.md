@@ -1,5 +1,5 @@
-WebJar for WEBJAR_NAME
+WebJar for backbone.paginator
 
 More info: http://webjars.org
 
-Upstream: WEBJAR_URL
+Upstream: https://github.com/backbone-paginator/backbone.paginator
